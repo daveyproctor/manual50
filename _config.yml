@@ -10,6 +10,7 @@ gems:
   - jekyll-optional-front-matter
   - jekyll-redirect-from
 host: 0.0.0.0
-plugins:
-  - jekyll-cs50-theme
 port: 8080
+
+# plugins:
+#   - jekyll-cs50-theme
